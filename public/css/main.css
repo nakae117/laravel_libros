@@ -1,0 +1,23 @@
+.container{
+	width: 45%;
+	margin: 40px auto;
+}
+.remove{
+	display: none;
+	position: absolute;
+	right: 15px;
+}
+.icons{
+	position: relative;
+}
+tr:hover .remove{
+	display: initial;
+}
+.container_books{
+	width: 35%;
+	margin: 40px auto;
+}
+form{
+	width: 35%;
+	margin: 40px auto;
+}
